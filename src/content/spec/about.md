@@ -1,7 +1,10 @@
 # About
-This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
+Really haven't tried to write a **BLOG** for such a long time, approximately 6 years (here I mean a real blog with content, not some sudden enthusiam).  
+Well, pages could be vary. Random thoughts, learning materials, favourite images, all can be present on the site.  
+I must admit that I also have fallen for the convenience of pre-made templates. Yeah, why not adapt from other's smooth design.  
+Haha, hopefully I consider myself still possess some creativity.
 
-::github{repo="saicaca/fuwari"}
+::github{repo="henrywch/Tilaphoethia"}
 
 > ### Sources of images used in this site
 > - [Unsplash](https://unsplash.com/)
