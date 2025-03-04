@@ -9,4 +9,6 @@ draft: false
 lang: ''
 ---
 
-Wait to be filled.
+:::important[Waiting to be Filled]
+The Night City calls for you!
+:::
